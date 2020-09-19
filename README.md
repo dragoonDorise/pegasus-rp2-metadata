@@ -10,6 +10,13 @@ Disclaimer: You should have your SD card formatted as internal storage
 
 4 Open Pegasus Frontend with Mouse mode off, press B, go to Settings, Gaming -> Set game directories.. and add every single metadata.pegasus.txt there is in every rom folder. Press B again so Pegasus can scrap the rom names
 
-5 Download Media from here - PENDING
+5 Download Media from here - PENDING or use [Skraper](http://skraper.net), select this types of media when scrapping:
+
+- screenshot
+- fanart
+- box 2d
+- wheel
+
+Remember to set a maximun width of 160px so we download img adapted to our RP2
 
 6 Install a cool theme, like [this one](https://github.com/dragoonDorise/switchOS) adapted for the RP2 by me.
