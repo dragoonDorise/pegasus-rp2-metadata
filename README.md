@@ -10,7 +10,7 @@ Disclaimer: You should have your SD card formatted as internal storage
 
 4 Open Pegasus Frontend with Mouse mode off, press B, go to Settings, Gaming -> Set game directories.. and add every single metadata.pegasus.txt there is in every rom folder. Press B again so Pegasus can scrap the rom names
 
-5 Download Media from here - PENDING or use [Skraper](http://skraper.net), select this types of media when scrapping:
+5 Download Media from here - (still uploading) or use [Skraper](http://skraper.net), selecting this types of media when scrapping:
 
 - screenshot
 - fanart
