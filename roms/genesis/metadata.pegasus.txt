@@ -1,8 +1,7 @@
 collection: Sega Genesis
 shortname: genesis
 extensions: 7z, zip
-launch: am start
-  --user 0
+launch: am start --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture
   -e ROM "{file.path}"
   -e LIBRETRO /data/data/com.retroarch/cores/genesis_plus_gx_libretro_android.so
