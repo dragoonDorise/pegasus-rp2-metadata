@@ -17,6 +17,6 @@ Disclaimer: You should have your SD card formatted as internal storage
 - box 2d
 - wheel
 
-Remember to set a maximun width of 160px so we download img adapted to our RP2
+Remember to set a maximum width of 160px so we download img adapted to our RP2
 
 6 Install a cool theme, like [this one](https://github.com/dragoonDorise/switchOS) adapted for the RP2 by me.
