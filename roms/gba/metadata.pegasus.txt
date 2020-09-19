@@ -1,0 +1,14 @@
+collection: Game Boy Advance
+shortname: gba
+extensions: 7z, zip
+launch: am start --user 0
+-n com.gpsp/com.retroarch.browser.retroactivity.RetroActivityFuture
+-e ROM {file.path}
+-e LIBRETRO /data/data/com.gpsp/cores/gpsp_libretro_android.so
+-e CONFIGFILE /storage/emulated/0/Android/data/com.gpsp/files/retroarch.cfg
+-e IME com.android.inputmethod.latin/.LatinIME
+-e DATADIR /data/data/com.gpsp
+-e APK /data/app/com.gpsp-1/base.apk
+-e SDCARD /mnt/media_rw/1234567890
+-e EXTERNAL /storage/emulated/0/Android/data/com.gpsp/files
+--activity-clear-top

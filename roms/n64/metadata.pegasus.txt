@@ -1,0 +1,6 @@
+collection: Nintendo 64
+shortname: n64
+extensions: 7z, zip
+launch: am start --user 0
+  -a paulscode.android.mupen64plusae/.MainActivity
+  -d "file://{file.path}"

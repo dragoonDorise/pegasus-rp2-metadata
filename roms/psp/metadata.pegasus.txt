@@ -1,0 +1,6 @@
+collection: PSP
+extensions: 7z, zip, iso, Ted
+launch: am start
+  --user 0
+  -a org.ppsspp.ppsspp/.PpssppActivity
+  -d "file://{file.path}"

@@ -1,0 +1,7 @@
+collection: Dreamcast
+shortname: dreamcast
+extensions: 7z,zip,cdi
+launch: am start --user 0
+  -a android.intent.action.VIEW
+  -n com.reicast.emulator/.MainActivity
+  -d "file://{file.path}"

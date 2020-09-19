@@ -1,0 +1,7 @@
+collection: Nintendo DS
+shortname: nds
+extensions: 7z, zip
+launch: am start
+  --user 0
+  -a com.dsemu.drastic/.DraSticActivity
+  -d "file://{file.path}"
