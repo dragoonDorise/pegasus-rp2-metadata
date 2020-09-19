@@ -4,7 +4,7 @@ Disclaimer: You should have your SD card formatted as internal storage
 
 1 Install [Pegasus Frontend](https://pegasus-frontend.org/#downloads) for Android
 
-2 Copy the contents of this repository in the SD card or copy every metadata.pegasus.txt in every system rom folder that you already have
+2 Download the rom folder present in this repository in the SD card or copy every metadata.pegasus.txt in every system rom folder that you already have
 
 3 Place your roms in your SD card. We recommend using a FTP Server [like this](https://play.google.com/store/apps/details?id=com.theolivetree.ftpserver)
 
