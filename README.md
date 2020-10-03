@@ -32,9 +32,9 @@ This pack contains metadata configuration for the following systems and emulator
 
 We need to allow the RP2 to use apps downloaded from outside the Play Store. In your RP2 go to Settings and enable Installation from unknown sources:
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/1.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/1.png)
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/2.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/2.png)
 
 ### 2 Download the latest version of [Pegasus from android](https://github.com/mmatyas/pegasus-frontend/releases/download/alpha14/pegasus-fe_alpha14_android.apk)
 
@@ -93,13 +93,13 @@ Just copy the **roms** folder in the SD Card and go to the next step.
 
 As soon as you plug the RP2 you have to put it in mouse mode by pressing the menu button for 2 seconds, move your left analog to the top, press and hold A and "drag" the cursor from top to bottom to open the notification drawer. Click on and Select _File transfer_
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/3.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/3.png)
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/4.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/4.png)
 
 Now you should be connected and browsing the RP2 file system.
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/41.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/41.png)
 
 Drag and drop the **roms** folder to the root folder.
 
@@ -115,11 +115,11 @@ Steps:
 
 Open in your RP2 the FTP Server app, go to Settings, and change the **username** and **user password**
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/5.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/5.png)
 
 Exit the settings page and take a second to look at the details in the screen:
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/6.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/6.png)
 
 In there you can see an IP address, something like 192.168.x.xxx:2221
 
@@ -127,11 +127,11 @@ Now open filezilla and use the IP address to connect using filezilla, lets use 1
 
 Fill in the inputs at the top of the window with your IP address and the username and password you previously saved in your RP2.
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/7.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/7.png)
 
 Filezilla will ask you some questions, do you want to save passwords, just go with OK with both. Now you are seeing the contents of your RP2:
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/8.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/8.png)
 
 In the right lower screen you can see the file system of your RP2,
 
@@ -151,7 +151,7 @@ This a somewhat long proccess, but don't worry, it's really simple.
 
 Open Pegasus Frontend with Mouse mode off, press B, go to Settings
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/9.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/9.png)
 
 #### Adding Themes
 
@@ -165,7 +165,7 @@ Pres Y and browse until you get to your roms folder using the D-pad, go to the s
 
 You have to do this with every system you want to add, it's a little bit tedious but you only have to do it once.
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/10.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/10.png)
 
 Once you've added all the systems you want to press B again and go back to settings
 
@@ -173,11 +173,11 @@ Once you've added all the systems you want to press B again and go back to setti
 
 Pegasus will crash if you use it to launch Android Apps, go down To Gaming -> Enable/Disable data sources and make sure Android apps is disabled.
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/11.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/11.png)
 
 Press B to go back to Settings and B Again to see All the systems added!
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/111.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/111.png)
 
 Just go inside a system with A, press A again to launch the game!
 
@@ -185,7 +185,7 @@ Just go inside a system with A, press A again to launch the game!
 
 Now with the hard part, downloading all the media so the game lists look like this:
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/12.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/12.png)
 
 For that we are going to be using [Skraper](http://skraper.net), for that you need to register yourself in [Screen Scrapper](https://www.screenscraper.fr/membreinscription.php)
 
@@ -196,7 +196,7 @@ I assume you have installed the application with no problem, after several minut
 
 In there complete your screen scrapper login data, click in VALIDATE and click NEXT.
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/13.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/13.png)
 
 In the next screen choose "Generic Emulation" and click NEXT
 
@@ -204,25 +204,25 @@ Now chose the path to your rom folder with all the systems in it, remember the *
 
 You should see a screen like this:
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/14.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/14.png)
 
 Click NEXT until you see this screen:
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/15.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/15.png)
 
 Go to the Media tab, we're going to tell Skrapper what images we need. Hit the - button until there is nothing selected
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/16.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/16.png)
 
 Click on the + button, then in media type click the left arrow until we get "Image - Screenshot"
 
 Then mark "Resize width", put 160px in the input box an also check "mantain aspect ratio"
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/17.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/17.png)
 
 Click once more in the + button and repeat but now we need media type : "Image - Logo" depending of your computer language this could be calles "Image - Wheel", then again mark "Resize width", put 160px in the input box an also check "mantain aspect ratio"
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/18.png">
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/18.png)
 
 Hit the play button and wait, depending of the number of roms this could take from minutes from hours.
 
