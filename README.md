@@ -103,7 +103,7 @@ Now you should be connected and browsing the RP2 file system.
 
 Drag and drop the **roms** folder to the root folder.
 
-Drag and drop the **switchOS theme** inside of the pegasus-frontend folder
+Drag and drop the **switchOS theme** inside of the pegasus-frontend/themes/ folder
 
 #### Using FTP
 
