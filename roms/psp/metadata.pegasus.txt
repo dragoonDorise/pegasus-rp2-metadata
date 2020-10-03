@@ -1,5 +1,5 @@
 collection: PSP
-extensions: 7z, zip, iso, Ted
+extensions: cso, iso, pbp, zip
 launch: am start
   --user 0
   -a org.ppsspp.ppsspp/.PpssppActivity

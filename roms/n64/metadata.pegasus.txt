@@ -1,6 +1,7 @@
 collection: Nintendo 64
 shortname: n64
-extensions: 7z, zip
+extensions: 7z, zip, n64, z64, v64
 launch: am start --user 0
-  -a paulscode.android.mupen64plusae/.MainActivity
+  -a android.intent.action.VIEW
+  -n org.mupen64plusae.v3.fzurita/paulscode.android.mupen64plusae.SplashActivity
   -d "file://{file.path}"

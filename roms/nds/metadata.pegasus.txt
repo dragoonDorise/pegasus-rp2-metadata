@@ -1,6 +1,6 @@
 collection: Nintendo DS
 shortname: nds
-extensions: 7z, zip
+extensions: 7z, zip, nds
 launch: am start
   --user 0
   -a com.dsemu.drastic/.DraSticActivity

@@ -1,6 +1,6 @@
 collection:Nintendo Entertainment System
 shortname: nes
-extensions: 7z, zip
+extensions: 7z, zip, fds, nes
 launch: am start
   --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture

@@ -1,6 +1,6 @@
 collection: Sega CD
 shortname: segacd
-extensions: 7z, zip, bin
+extensions: 7z, zip, bin, chd, cue, iso
 launch: am start
   --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture

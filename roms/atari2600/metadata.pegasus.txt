@@ -1,6 +1,6 @@
 collection: Atari 2600
 shortname: atari2600
-extensions: 7z, zip
+extensions: 7z, zip, a26, bin, gz, rom
 launch: am start
   --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture

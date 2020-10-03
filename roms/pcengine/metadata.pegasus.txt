@@ -1,6 +1,6 @@
 collection: NEC - PC Engine - TurboGrafx 16
 shortname: pcengine
-extensions: 7z, zip
+extensions: 7z, ccd, chd, cue, pce, zip
 launch: am start
   --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture

@@ -1,6 +1,6 @@
 collection: Sony PlayStation
 shortname: psx
-extensions: 7z, zip, iso, Ted
+extensions: cue, ccd, chd, exe, iso, m3u, pbp, toc
 launch: am start
   --user 0
   -n com.retroarch/.browser.retroactivity.RetroActivityFuture

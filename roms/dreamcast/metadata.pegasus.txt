@@ -1,6 +1,6 @@
 collection: Dreamcast
 shortname: dreamcast
-extensions: 7z,zip,cdi
+extensions: 7z, zip, cdi, chd
 launch: am start --user 0
   -a android.intent.action.VIEW
   -n com.reicast.emulator/.MainActivity
