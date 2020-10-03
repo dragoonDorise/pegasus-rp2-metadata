@@ -73,15 +73,15 @@ There are multiple RP2 themes, for this guide I'll be using one of my own as it'
 
 Download [switchOS RP2 Edition](https://github.com/dragoonDorise/pegasus-rp2-metadata/master/guide/archive/master.zip)
 
-Now you should have a switchOS-master.zip folder in your computer, unzip it and rename the folder to switchOS
+Now you should have a switchOS-master.zip folder in your computer, unzip it and rename the folder to switchOS-RP2
 
-- Disclaimer: this theme is a fork of the original [switchOS](https://github.com/PlayingKarrde/switchOS)
+- Disclaimer: this theme is a fork of the original [switchOS](https://github.com/PlayingKarrde/switchOS) from PlayingKarrde, and its using code from this other [fork](https://github.com/valsou/switchOS)
 
 ### 5 File transfer.
 
 You can do this two different ways. Connecting your RP2 to the computer or just using a card reader directly. If you choose to format your SD Card as Internal you can only copy files connecting the RP2 directly to your computer or using a FTP program
 
-No matter the method we use, we are going to copy the **roms** folder to the RP2 and the **switchOS theme**.
+No matter the method we use, we are going to copy the **roms** folder to the RP2 and the **switchOS-RP2** folder.
 
 #### Using a SD card reader.
 
@@ -103,7 +103,7 @@ Now you should be connected and browsing the RP2 file system.
 
 Drag and drop the **roms** folder to the root folder.
 
-Drag and drop the **switchOS theme** inside of the pegasus-frontend/themes/ folder
+Drag and drop the **switchOS-RP2** folder inside of the pegasus-frontend/themes/ folder
 
 #### Using FTP
 
@@ -147,7 +147,7 @@ Example: I want to transfer Super Mario World.zip for Super Nes, just drag and d
 
 ### 6 Configuring Pegasus
 
-This a somewhat long proccess, but don't worry, it's really simple.
+This is a somewhat long process, but don't worry, it's really simple.
 
 Open Pegasus Frontend with Mouse mode off, press B, go to Settings
 
