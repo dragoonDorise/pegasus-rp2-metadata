@@ -103,7 +103,7 @@ Now you should be connected and browsing the RP2 file system.
 
 Drag and drop the **roms** folder to the root folder.
 
-Drag and drop the **switchOS theme** inside of the pegasus-frontend
+Drag and drop the **switchOS theme** inside of the pegasus-frontend folder
 
 #### Using FTP
 
@@ -155,13 +155,13 @@ Open Pegasus Frontend with Mouse mode off, press B, go to Settings
 
 #### Adding Themes
 
-Go to General - Theme and select the theme you want, you should see in there swithOS, select with A
+Go to General - Theme and select the theme you want, you should see in there switchOS, select with A button
 
 #### Adding systems
 
 Go down to Gaming -> Set game directories
 
-Pres Y and browse until you get to your roms folder, go inside everyone of them and select the metadata.pegasus.txt with a button
+Pres Y and browse until you get to your roms folder using the D-pad, go to the system ( snes, gba, etc) folder and select the metadata.pegasus.txt inside using the button A.
 
 You have to do this with every system you want to add, it's a little bit tedious but you only have to do it once.
 
@@ -230,6 +230,6 @@ Hit the play button and wait, depending of the number of roms this could take fr
 
 When it's finished you will have a media folder inside of every of your rom systems. Copy this media folder to your RP2 using the methods described before and you my friend, are finally done!
 
-Example: The path the media folder in tour RP2 for Super Nintendo should be:
+Example: The path the media folder in your RP2 for Super Nintendo should be:
 
 roms/snes/media
