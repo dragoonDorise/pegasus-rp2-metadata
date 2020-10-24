@@ -105,7 +105,7 @@ There are multiple RP2 themes, for this guide I'll be using one of my own as it'
 
 <img src="https://raw.githubusercontent.com/dragoonDorise/switchOS/master/preview.jpg">
 
-Download [switchOS RP2 Edition](https://github.com/dragoonDorise/pegasus-rp2-metadata/master/guide/archive/master.zip)
+Download [switchOS RP2 Edition](https://github.com/dragoonDorise/switchOS/archive/0.3.zip)
 
 Now you should have a switchOS-master.zip folder in your computer, unzip it and rename the folder to switchOS-RP2
 
