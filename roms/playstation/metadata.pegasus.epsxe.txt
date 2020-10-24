@@ -1,0 +1,7 @@
+collection: Sony PlayStation
+shortname: psx
+extensions: cue, ccd, chd, exe, iso, m3u, pbp, toc
+launch: am start --user 0
+  -a android.intent.action.MAIN
+  -n com.epsxe.ePSXe/.ePSXe
+  -d "file://{file.path}"

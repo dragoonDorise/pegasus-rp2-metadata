@@ -1,0 +1,7 @@
+collection: Super Nintendo Entertainment System
+shortname: snes
+extensions: 7z, bin, fig, mgd, sfc, smc, swc, zip
+launch: am start --user 0
+  -a android.intent.action.VIEW
+  -n com.imagine.BaseActivity
+  -d "file://{file.path}"

@@ -6,25 +6,59 @@ The bad thing about Pegasus is that you need to make a lot of preconfiguration, 
 
 This pack contains metadata configuration for the following systems and emulators, some of them comes preloaded with the RP2, some of them don't and you need to download them from the Play Store.
 
-| System                    | Emulator                             | Bundled |
-| ------------------------- | ------------------------------------ | ------- |
-| GameBoy Advance           | Retroarch 1.5 gpsp core              | Yes     |
-| GameBoy                   | Retroarch 1.8 gambatte core          | Yes     |
-| Atari 2600                | Retroarch 1.8 stella core            | Yes     |
-| Playstation               | Retroarch 1.8 PCSX Rearmed core      | Yes     |
-| Nintendo NES              | Retroarch 1.8 fceumm core            | Yes     |
-| Sega CD                   | Retroarch 1.8 genesis plus gx core   | Yes     |
-| Super Nintendo            | Retroarch 1.8 snes9x 2002 core       | Yes     |
-| Master System             | Retroarch 1.8 genesis plus gx core   | Yes     |
-| Dreamcast                 | Reicast                              | No      |
-| PSP                       | PPSP                                 | Yes     |
-| ScummVM                   | Retroarch 1.8 scummvm core           | Yes     |
-| PC engine                 | Retroarch 1.8 mednafen pce fast core | Yes     |
-| Nintendo 64               | Mupen64plus FZ                       | Yes     |
-| Sega 32X                  | Retroarch 1.8 genesis plus gx core   | Yes     |
-| Nintendo DS               | Drastic                              | No      |
-| Sega Genesis / Mega Drive | Retroarch 1.8 genesis plus gx core   | Yes     |
-| Mame 2010 ( 0.139 )       | MAME4droid                           | Yes     |
+| System                    | Emulator                             | Bundled     |
+| ------------------------- | ------------------------------------ | ----------- |
+| Atari 2600                | Retroarch 1.8 stella core            | Yes         |
+| Doom                      | Retroarch 1.8 PrBoom core            | Yes         |
+| GameBoy                   | Retroarch 1.8 gambatte core          | Yes         |
+| GameBoy Color             | Retroarch 1.8 gambatte core          | Yes         |
+| GameBoy Advance           | Retroarch 1.5 gpsp core              | Yes         |
+| Dreamcast                 | Reicast                              | No ( Free ) |
+| Dos                       | Retroarch 1.8 DOSBox core            | Yes         |
+| Final Burn Alpha          | Retroarch 1.8 fba 2020 core          | Yes         |
+| Final Burn Neo            | Retroarch 1.8 fbn core               | Yes         |
+| Mame 2010 ( 0.139 )       | MAME4droid                           | Yes         |
+| Master System             | Retroarch 1.8 genesis plus gx core   | Yes         |
+| Neo Geo                   | Retroarch 1.8 fba 2020 Neo Geo core  | Yes         |
+| Neo Geo CD                | Retroarch 1.8 fbn core               | Yes         |
+| Neo Geo Pocket & Color    | Retroarch 1.8 Mednafen NPG core      | Yes         |
+| Nintendo DS               | Drastic                              | No ( Paid ) |
+| Nintendo NES              | Retroarch 1.8 fceumm core            | Yes         |
+| Nintendo 64               | Mupen64plus FZ                       | Yes         |
+| PC engine                 | Retroarch 1.8 mednafen pce fast core | Yes         |
+| Playstation               | Retroarch 1.8 PCSX Rearmed core      | Yes         |
+| Pokemon Mini              | Retroarch 1.8 PokeMini core          | Yes         |
+| PSP                       | PPSP                                 | Yes         |
+| ScummVM                   | Retroarch 1.8 scummvm core           | Yes         |
+| Sega 32X                  | Retroarch 1.8 genesis plus gx core   | Yes         |
+| Sega CD                   | Retroarch 1.8 genesis plus gx core   | Yes         |
+| Sega Game Gear            | Retroarch 1.8 genesis plus gx core   | Yes         |
+| Sega Genesis / Mega Drive | Retroarch 1.8 genesis plus gx core   | Yes         |
+| Super Nintendo            | Retroarch 1.8 snes9x 2002 core       | Yes         |
+| Wonderswan & Color        | Retroarch 1.8 Mednafen wswan core    | Yes         |
+
+Remember to manually download the core you'll need in your RP2 Retroarch App!
+
+## Alternative Emulators
+
+| System          | Emulator    | Bundled   |
+| --------------- | ----------- | --------- |
+| Playstation     | ePSXe       | No (paid) |
+| Super Nintendo  | SNEX9EX ex+ | No (paid) |
+| GameBoy Advance | MyBoy!      | No (paid) |
+
+I've added support for some other emulators but since they're not bundled and not free they are optional and need some work from you to make them work, basically you need to rename the metadata file for each of this systems
+
+### Example:
+
+- Activating ePSXe
+
+You go to playstation folder and you'll see:
+
+metadata.pegasus.txt -> Main emulator
+metadata.pegasus.epsxe.txt -> Alternative emulator
+
+You just need to rename metadata.pegasus.txt to metadata.pegasus.original.txt and metadata.pegasus.epsxe.txt to metadata.pegasus.txt, if you want to switch emulators just rename them back to the original names.
 
 # Guide for newbies
 

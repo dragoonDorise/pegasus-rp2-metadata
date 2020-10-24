@@ -1,0 +1,10 @@
+collection: Game Boy Advance
+shortname: gba
+extensions: 7z, zip, gba
+launch: am start --user 0
+  -a android.intent.action.VIEW
+  -n com.fastemulator.gba/.EmulatorActivity
+  -d "file://{file.path}"
+  
+  
+  
