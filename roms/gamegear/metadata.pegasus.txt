@@ -1,5 +1,5 @@
 collection: Sega Game Gear
-shortname: sg
+shortname: gamegear
 extensions: 7z, bin, sms, zip, gg, sg
 launch: am start
   --user 0
