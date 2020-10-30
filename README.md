@@ -210,7 +210,7 @@ Pegasus will crash if you use it to launch Android Apps, go down To Gaming -> En
 
 Press B to go back to Settings and B Again to see All the systems added!
 
-![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/111.png)
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/RP-Switch/main/screenshots/home.jpg)
 
 Just go inside a system with A, press A again to launch the game!
 
@@ -218,7 +218,7 @@ Just go inside a system with A, press A again to launch the game!
 
 Now with the hard part, downloading all the media so the game lists look like this:
 
-![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/12.png)
+![Screenshot](https://raw.githubusercontent.com/dragoonDorise/RP-Switch/main/screenshots/games3.jpg)
 
 For that we are going to be using [Skraper](http://skraper.net), for that you need to register yourself in [Screen Scrapper](https://www.screenscraper.fr/membreinscription.php)
 
