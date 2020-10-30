@@ -103,19 +103,18 @@ Copy the downloaded .apk inside the roms folder. It's not necessary but it makes
 
 There are multiple RP2 themes, for this guide I'll be using one of my own as it's simple and works fine in the RP2.
 
-<img src="https://raw.githubusercontent.com/dragoonDorise/switchOS/master/preview.jpg">
+<img src="https://raw.githubusercontent.com/dragoonDorise/RP-Switch/main/screenshots/hero.jpg">
 
-Download [switchOS RP2 Edition](https://github.com/dragoonDorise/switchOS/archive/0.4.zip)
+Download [RP-Switch](https://github.com/dragoonDorise/RP-Switch/archive/1.0.zip)
 
-Now you should have a switchOS-master.zip folder in your computer, unzip it and rename the folder to switchOS-RP2
+Now you should have a RP-Switch-main.zip folder in your computer, unzip it and rename the folder to RP-Switch
 
-- Disclaimer: this theme is a fork of the original [switchOS](https://github.com/PlayingKarrde/switchOS) from PlayingKarrde, and its using code from this other [fork](https://github.com/valsou/switchOS)
 
 ### 5 File transfer.
 
 You can do this two different ways. Connecting your RP2 to the computer or just using a card reader directly. If you choose to format your SD Card as Internal you can only copy files connecting the RP2 directly to your computer or using a FTP program
 
-No matter the method we use, we are going to copy the **roms** folder to the RP2 and the **switchOS-RP2** folder.
+No matter the method we use, we are going to copy the **roms** folder to the RP2 and the **RP-Switch** folder.
 
 #### Using a SD card reader.
 
@@ -137,7 +136,7 @@ Now you should be connected and browsing the RP2 file system.
 
 Drag and drop the **roms** folder to the root folder.
 
-Drag and drop the **switchOS-RP2** folder inside of the pegasus-frontend/themes/ folder
+Drag and drop the **RP-Switch** folder inside of the pegasus-frontend/themes/ folder
 
 #### Using FTP
 
@@ -171,7 +170,7 @@ In the right lower screen you can see the file system of your RP2,
 
 Drag and drop the **roms** folder to the root folder.
 
-Drag and drop the **switchOS theme** inside of the pegasus-frontend
+Drag and drop the **RP-Switch theme** inside of the pegasus-frontend
 
 #### Installing Games
 
