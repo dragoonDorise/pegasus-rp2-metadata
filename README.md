@@ -105,7 +105,7 @@ There are multiple RP2 themes, for this guide I'll be using one of my own as it'
 
 <img src="https://raw.githubusercontent.com/dragoonDorise/RP-Switch/main/screenshots/hero.jpg">
 
-Download [RP-Switch](https://github.com/dragoonDorise/RP-Switch/archive/1.0.zip)
+Download [RP-Switch](https://github.com/dragoonDorise/RP-Switch/releases/latest)
 
 Now you should have a RP-Switch-main.zip folder in your computer, unzip it and rename the folder to RP-Switch
 
