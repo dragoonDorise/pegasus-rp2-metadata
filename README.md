@@ -225,6 +225,12 @@ For that we are going to be using [Skraper](http://skraper.net), for that you ne
 **Note to Mac users**
 Skraper is not available for Mac as of yet, I promise I will try to update this guide ASAP with alternatives for you guys.
 
+**Pre Scraped Assets**
+You can also download some pre scraped assets from here: https://bit.ly/2Ie0p21
+
+*Keep in mind these assets may not work with your rom collection. These assets have been scrapped from a collection where there the rom file only has the game name and nothing else, ie: Super Mario World.zip and not Super Mario World (JP).zip. If you want to use this set you need to remove all the extra info from the rom filename.* You can rename your collection in Bulk using [this app for Windows](https://www.bulkrenameutility.co.uk/#mainscreen) or using Automator in a Mac. 
+
+
 I assume you have installed the application with no problem, after several minutes a wizard will appear:
 
 In there complete your screen scrapper login data, click in VALIDATE and click NEXT.
