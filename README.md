@@ -220,16 +220,20 @@ Now with the hard part, downloading all the media so the game lists look like th
 
 ![Screenshot](https://raw.githubusercontent.com/dragoonDorise/RP-Switch/main/screenshots/games3.jpg)
 
-For that we are going to be using [Skraper](http://skraper.net), for that you need to register yourself in [Screen Scrapper](https://www.screenscraper.fr/membreinscription.php)
-
-**Note to Mac users**
-
-Skraper is not available for Mac as of yet, I promise I will try to update this guide ASAP with alternatives for you guys.
 
 ### Pre Scraped Assets
 You can also download some pre scraped assets from here: https://bit.ly/2Ie0p21
 
 *Keep in mind these assets may not work with your rom collection. These assets have been scrapped from a collection where there the rom file only has the game name and nothing else, ie: Super Mario World.zip and not Super Mario World (JP).zip. If you want to use this set you need to remove all the extra info from the rom filename. You can rename your collection in Bulk using [this app for Windows](https://www.bulkrenameutility.co.uk/#mainscreen) or using Automator in a Mac.*
+
+### Scraping your own assets
+
+If the previous assets doesn't meet your needs, you need to scrap your own, for that we are going to be using [Skraper](http://skraper.net), for that you need to register yourself in [Screen Scrapper](https://www.screenscraper.fr/membreinscription.php)
+
+**Note to Mac users**
+
+Skraper is not available for Mac as of yet, I promise I will try to update this guide ASAP with alternatives for you guys.
+
 
 
 I assume you have installed the application with no problem, after several minutes a wizard will appear:
@@ -260,7 +264,7 @@ Then mark "Resize width", put 160px in the input box an also check "mantain aspe
 
 ![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/17.png)
 
-Click once more in the + button and repeat but now we need media type : "Image - Logo" depending of your computer language this could be calles "Image - Wheel", then again mark "Resize width", put 160px in the input box an also check "mantain aspect ratio"
+Click once more in the + button and repeat but now we need media type : "Image - Logo" depending of your computer language this could be called "Image - Wheel", then again mark "Resize width", put 160px in the input box an also check "mantain aspect ratio"
 
 ![Screenshot](https://raw.githubusercontent.com/dragoonDorise/pegasus-rp2-metadata/master/guide/18.png)
 
