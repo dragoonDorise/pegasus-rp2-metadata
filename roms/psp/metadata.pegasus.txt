@@ -1,6 +1,6 @@
 collection: PSP
 extensions: cso, iso, pbp, zip, chd
-launch: am start
-  --user 0
-  -a org.ppsspp.ppsspp/.PpssppActivity
+launch: am start --user 0
+  -a android.intent.action.VIEW
+  -n org.ppsspp.ppsspp/.PpssppActivity
   -d "file://{file.path}"
